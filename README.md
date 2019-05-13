@@ -11,7 +11,7 @@ Description
 ## Object Oriented Etch-A-Sketch
 Description
 
-![EtchASketch]()
+![EtchASketch](https://github.com/IzaakTayler/2019ProgrammingPortfolio/blob/master/EtchASketch/EtchASketch.png?raw=true)
 
 [EtchASketch Source Code]()
 
