@@ -2,21 +2,21 @@
 ### 2018-2019 Programming 1
 
 ## Object Oriented Calculator
-Description
+This calculator has square root, pi, square, and cube functions.
 
 ![Calculator](https://github.com/IzaakTayler/2019ProgrammingPortfolio/blob/master/Calc/CalculatorScreen.png?raw=true)
 
 [Calculator Source Code](https://github.com/IzaakTayler/2019ProgrammingPortfolio/blob/master/Calc/Calculator.zip)
 
 ## Object Oriented Etch-A-Sketch
-Description
+The Etch-A-Sketch is a staple of childrens toys.
 
 ![EtchASketch](https://github.com/IzaakTayler/2019ProgrammingPortfolio/blob/master/EtchASketch/EtchASketch.png?raw=true)
 
 [EtchASketch Source Code](https://github.com/IzaakTayler/2019ProgrammingPortfolio/blob/master/EtchASketch/EtchASketch.pde.zip)
 
 ## Object Oriented Screensaver
-Description
+This is something to have when you are away from your computer.
 
 ![Screensaver](https://github.com/IzaakTayler/2019ProgrammingPortfolio/blob/master/Screensaver/ScreensaverScreen.png?raw=true)
 
