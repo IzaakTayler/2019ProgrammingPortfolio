@@ -23,14 +23,14 @@ This is something to have when you are away from your computer.
 [Screensaver Source Code](https://github.com/IzaakTayler/2019ProgrammingPortfolio/blob/master/Screensaver/ScreenSaver.zip)
 
 ## Object Oriented Cars
-Description
+Cars Driving along the road.
 
 ![Cars](https://github.com/IzaakTayler/2019ProgrammingPortfolio/blob/master/Cars/CarsScreen.png?raw=true)
 
 [Cars Source Code](https://github.com/IzaakTayler/2019ProgrammingPortfolio/blob/master/Cars/Cars.zip)
 
 ## Object Oriented Collision Detection
-Description
+A ball bouncing on the edges of the screen
 
 ![Collision Detection](https://github.com/IzaakTayler/2019ProgrammingPortfolio/blob/master/CollisionDetection/CollisionDetection.png?raw=true)
 
